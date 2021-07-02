@@ -99,4 +99,6 @@ audio2stl <- function (inputfile, outputfile=NULL, sampfreq=16000, axisnorm=FALS
   if (!is.null(outputfile)) { 
     rayshader::save_3dprint(outputfile, maxwidth=50, unit="mm")
   }
+
+  rayshader::render_snapshot()
 }
