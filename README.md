@@ -7,7 +7,8 @@ Original code by [Christopher Carignan](https://github.com/ChristopherCarignan)
 
 ## Online
 
-Open this repo in a binder (link to follow)
+Open this repo in a binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/davidverweij/audio2stl/HEAD?filepath=index.ipynb)
+> **!! Very slow - not sure how to get this set up better yet.. !!**
 
 ## Offline
 Following [this article](https://developers.refinitiv.com/en/article-catalog/article/setup-jupyter-notebook-r)
